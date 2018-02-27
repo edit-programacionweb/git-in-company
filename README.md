@@ -2,7 +2,10 @@
 Repositorio para experimentar lo aprendido en clase
 <<<<<<< HEAD
 
+<<<<<<< HEAD
 test
+=======
+>>>>>>> 72b85e24175bfbd5cd82f536bfd29f7185a20231
 =======
 <<<<<<< HEAD
 Cambios editados por Sacoa
